@@ -2,9 +2,9 @@
 This library creates reusable random number generators as callable methods to simplify development.
 
 * **randomZeroToOne** - Generates a random decimal number between 0 and 1.
-    | Arguments     | Sample Syntax                   | Sample Return      |
-    |---------------|---------------------------------|--------------------|
-    | None          | `random.randomZeroToOne();`     | 0.8809215549698584 |
+| Arguments     | Sample Syntax                   | Sample Return      |
+|---------------|---------------------------------|--------------------|
+| None          | `random.randomZeroToOne();`     | 0.8809215549698584 |
 
 
 
